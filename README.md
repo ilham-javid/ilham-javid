@@ -42,7 +42,7 @@ I am an undergraduate of BICT Honours focused on Software Engineering Technology
 
 #
 
-### 📺 Latest YouTube Videos
+<!-- ### 📺 Latest YouTube Videos -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!--[![Trying to Connect GPT-4 to the Internet](https://ytcards.demolab.com/?id=tF1vJ71KnHY&title=Trying+to+Connect+GPT-4+to+the+Internet&lang=en&timestamp=1685459704&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=385 "Trying to Connect GPT-4 to the Internet")](https://www.youtube.com/watch?v=tF1vJ71KnHY)
@@ -66,7 +66,7 @@ I am an undergraduate of BICT Honours focused on Software Engineering Technology
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    As a university student pursuing a BICT degree, my coding journey began with a thirst for knowledge and a passion for technology. Through my academic studies, I gained a strong foundation in programming, exploring various languages and concepts. However, it was during an internship that I discovered my true love for ReactJS and JavaScript. Working on real-world projects, I honed my skills in these technologies, embracing the power of React's dynamic UI capabilities and delving deep into the intricacies of JavaScript. This internship served as a catalyst for my career, propelling me into the world of web development and igniting a lifelong passion for coding.
    My coding journey has transformed me from a university student to a confident professional, and I am excited to see where this journey will take me next as I continue to make an impact in the ever-evolving world of coding.
 
