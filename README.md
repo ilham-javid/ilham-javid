@@ -1,7 +1,6 @@
 ### Hi there 👋, My self Ilham Javid
 #### I am an undergraduate of BICT Honours focused on Software Engineering Technology at the University of Sri Jayewardenepura
-![I am an undergraduate of BICT Honours focused on Software Engineering Technology at the University of Sri Jayewardenepura]
-keen to learn about the latest technologies, and I gain the most satisfaction by utilizing that knowledge to solve real world problems. I am flexible, reliable, and possess excellent time keeping skills.  I am an enthusiastic, self motivated, reliable, responsible, and hard working person. I have good knowledge of software development concepts and also passionate about mobile application development and graphic design. I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as on my own initiative.
+who is keen to learn about the latest technologies, and I gain the most satisfaction by utilizing that knowledge to solve real world problems. I am flexible, reliable, and possess excellent time keeping skills.  I am an enthusiastic, self motivated, reliable, responsible, and hard working person. I have good knowledge of software development concepts and also passionate about mobile application development and graphic design. I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as on my own initiative.
 
 Skills: REACT.JS / JavaScript / Node.JS / Express.JS / HTML / CSS / MongoDB / MySQL / UIUX / Graphic Design
 
@@ -22,5 +21,3 @@ Skills: REACT.JS / JavaScript / Node.JS / Express.JS / HTML / CSS / MongoDB / My
 ![GitHub metrics](https://metrics.lecoq.io/ilham-javid)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ilham-javid)  
-
-![Profile views](https://gpvc.arturio.dev/ilham-javid)  
