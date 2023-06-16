@@ -1,6 +1,6 @@
 # <Ilham Javid />
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`(Developer/Designer/Creator)`**
 
 I am an undergraduate of BICT Honours focused on Software Engineering Technology at the University of Sri Jayewardenepura who is keen to learn about the latest technologies, and I gain the most satisfaction by utilizing that knowledge to solve real world problems. I am flexible, reliable, and possess excellent time keeping skills.  I am an enthusiastic, self motivated, reliable, responsible, and hard working person. I have good knowledge of software development concepts and also passionate about mobile application development and graphic design. I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as on my own initiative.
 
@@ -50,7 +50,7 @@ I am an undergraduate of BICT Honours focused on Software Engineering Technology
 [![These AI TOOLS will help you CODE BETTER](https://ytcards.demolab.com/?id=jArtVVbYGKk&title=These+AI+TOOLS+will+help+you+CODE+BETTER&lang=en&timestamp=1681390835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=756 "These AI TOOLS will help you CODE BETTER")](https://www.youtube.com/watch?v=jArtVVbYGKk) -->
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/UC0J7tcgtqIHTJVA96pkY_CQ?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UC0J7tcgtqIHTJVA96pkY_CQ?sub_confirmation=1)
 
 #
 
