@@ -61,7 +61,7 @@ I am an undergraduate of BICT Honours focused on Software Engineering Technology
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilham-javid&show_icons=true&theme=gruvbox)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ilham-javid&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=ilham-javid&theme=gruvbox&border_radius=4.5)
 
 #
 
