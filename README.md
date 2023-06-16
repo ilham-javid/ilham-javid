@@ -45,7 +45,7 @@ I am an undergraduate of BICT Honours focused on Software Engineering Technology
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-<!-- [![Trying to Connect GPT-4 to the Internet](https://ytcards.demolab.com/?id=tF1vJ71KnHY&title=Trying+to+Connect+GPT-4+to+the+Internet&lang=en&timestamp=1685459704&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=385 "Trying to Connect GPT-4 to the Internet")](https://www.youtube.com/watch?v=tF1vJ71KnHY)
+<!--[![Trying to Connect GPT-4 to the Internet](https://ytcards.demolab.com/?id=tF1vJ71KnHY&title=Trying+to+Connect+GPT-4+to+the+Internet&lang=en&timestamp=1685459704&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=385 "Trying to Connect GPT-4 to the Internet")](https://www.youtube.com/watch?v=tF1vJ71KnHY)
 [![The Making of GNU: The World's First Open-Source Software](https://ytcards.demolab.com/?id=sQDvkd2wtxU&title=The+Making+of+GNU%3A+The+World%27s+First+Open-Source+Software&lang=en&timestamp=1684076438&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=484 "The Making of GNU: The World's First Open-Source Software")](https://www.youtube.com/watch?v=sQDvkd2wtxU)
 [![AI bots were given freedom in a virtual city…](https://ytcards.demolab.com/?id=FBvyxc0PSlc&title=AI+bots+were+given+freedom+in+a+virtual+city%E2%80%A6&lang=en&timestamp=1683126008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=291 "AI bots were given freedom in a virtual city…")](https://www.youtube.com/watch?v=FBvyxc0PSlc)
 [![Elon Musk is building TruthGPT…](https://ytcards.demolab.com/?id=TOIRY9UjAMI&title=Elon+Musk+is+building+TruthGPT%E2%80%A6&lang=en&timestamp=1682002817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=53 "Elon Musk is building TruthGPT…")](https://www.youtube.com/watch?v=TOIRY9UjAMI)
@@ -61,13 +61,14 @@ I am an undergraduate of BICT Honours focused on Software Engineering Technology
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilham-javid&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=ilham-javid&theme=gruvbox&border_radius=4.5) -->
 
 #
 
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+   As a university student pursuing a BICT degree, my coding journey began with a thirst for knowledge and a passion for technology. Through my academic studies, I gained a strong foundation in programming, exploring various languages and concepts. However, it was during an internship that I discovered my true love for ReactJS and JavaScript. Working on real-world projects, I honed my skills in these technologies, embracing the power of React's dynamic UI capabilities and delving deep into the intricacies of JavaScript. This internship served as a catalyst for my career, propelling me into the world of web development and igniting a lifelong passion for coding.
+   My coding journey has transformed me from a university student to a confident professional, and I am excited to see where this journey will take me next as I continue to make an impact in the ever-evolving world of coding.
 
 [website]: https://fkcodes.com
 [youtube]: https://youtube.com/fknight
